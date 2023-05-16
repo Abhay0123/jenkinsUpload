@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="7" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-17T01:02:35 IST" name="Suite" finished-at="2023-05-17T01:02:36 IST" duration-ms="419">
+    <groups>
+    </groups>
+    <test started-at="2023-05-17T01:02:35 IST" name="Test" finished-at="2023-05-17T01:02:36 IST" duration-ms="419">
+      <class name="testNG.class02">
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:testNG.class02@31e5415e]" started-at="2023-05-17T01:02:36 IST" name="beforemethod" finished-at="2023-05-17T01:02:36 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="MobileloginToOrangeHrm()[pri:0, instance:testNG.class02@31e5415e]" started-at="2023-05-17T01:02:36 IST" name="MobileloginToOrangeHrm" finished-at="2023-05-17T01:02:36 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileloginToOrangeHrm -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testNG.class02@31e5415e]" started-at="2023-05-17T01:02:36 IST" name="aftermethod" finished-at="2023-05-17T01:02:36 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:testNG.class02@31e5415e]" started-at="2023-05-17T01:02:36 IST" name="beforemethod" finished-at="2023-05-17T01:02:36 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="MobilelogoutToOrangeHrm()[pri:0, instance:testNG.class02@31e5415e]" started-at="2023-05-17T01:02:36 IST" name="MobilelogoutToOrangeHrm" finished-at="2023-05-17T01:02:36 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobilelogoutToOrangeHrm -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testNG.class02@31e5415e]" started-at="2023-05-17T01:02:36 IST" name="aftermethod" finished-at="2023-05-17T01:02:36 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:testNG.class02@31e5415e]" started-at="2023-05-17T01:02:36 IST" name="beforemethod" finished-at="2023-05-17T01:02:36 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="webLoginToOrangeHrm()[pri:0, instance:testNG.class02@31e5415e]" started-at="2023-05-17T01:02:36 IST" name="webLoginToOrangeHrm" finished-at="2023-05-17T01:02:36 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webLoginToOrangeHrm -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testNG.class02@31e5415e]" started-at="2023-05-17T01:02:36 IST" name="aftermethod" finished-at="2023-05-17T01:02:36 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:testNG.class02@31e5415e]" started-at="2023-05-17T01:02:36 IST" name="beforemethod" finished-at="2023-05-17T01:02:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="webLogoutToOrangeHrm()[pri:0, instance:testNG.class02@31e5415e]" started-at="2023-05-17T01:02:36 IST" name="webLogoutToOrangeHrm" finished-at="2023-05-17T01:02:36 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webLogoutToOrangeHrm -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:testNG.class02@31e5415e]" started-at="2023-05-17T01:02:36 IST" name="aftermethod" finished-at="2023-05-17T01:02:36 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="tc()[pri:0, instance:testNG.class02@31e5415e]" started-at="2023-05-17T01:02:36 IST" name="tc" finished-at="2023-05-17T01:02:36 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+      </class> <!-- testNG.class02 -->
+      <class name="testNG.class01">
+        <test-method is-config="true" signature="tc()[pri:0, instance:testNG.class01@10163d6]" started-at="2023-05-17T01:02:35 IST" name="tc" finished-at="2023-05-17T01:02:35 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+        <test-method is-config="true" signature="tc4()[pri:0, instance:testNG.class01@10163d6]" started-at="2023-05-17T01:02:35 IST" name="tc4" finished-at="2023-05-17T01:02:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method signature="tc1()[pri:0, instance:testNG.class01@10163d6]" started-at="2023-05-17T01:02:36 IST" name="tc1" finished-at="2023-05-17T01:02:36 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="tc2()[pri:0, instance:testNG.class01@10163d6]" started-at="2023-05-17T01:02:36 IST" name="tc2" finished-at="2023-05-17T01:02:36 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method is-config="true" signature="tc3()[pri:0, instance:testNG.class01@10163d6]" started-at="2023-05-17T01:02:36 IST" name="tc3" finished-at="2023-05-17T01:02:36 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- testNG.class01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
